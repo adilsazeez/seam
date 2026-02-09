@@ -1,0 +1,10 @@
+{
+    "name": "api",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "dev": ".venv/bin/uvicorn main:app --reload --port 8000",
+        "start": ".venv/bin/uvicorn main:app --port 8000",
+        "lint": "echo 'linting python...'"
+    }
+}
