@@ -10,6 +10,7 @@
     "vercel-ignore": "turbo-ignore"
   },
   "devDependencies": {
+    "next": "^16.1.6",
     "prettier": "^3.7.4",
     "turbo": "^2.8.3",
     "typescript": "5.9.2"
