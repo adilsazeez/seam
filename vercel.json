@@ -2,5 +2,5 @@
     "buildCommand": "bun x turbo run build --filter=web",
     "outputDirectory": "apps/web/.next",
     "installCommand": "bun install",
-    "framework": null
+    "framework": "nextjs"
 }
